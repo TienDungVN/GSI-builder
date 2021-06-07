@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_LINK: direct link
+  ROM_LINK: https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
