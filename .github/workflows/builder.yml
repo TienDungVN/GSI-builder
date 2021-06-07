@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_LINK: your rom's direct link
+  ROM_LINK: direct link
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
