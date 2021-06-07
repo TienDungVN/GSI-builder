@@ -36,7 +36,7 @@ jobs:
             sudo -E apt-get -qq install git openjdk-8-jdk p7zip
        
        - name: Cloning repo...
-         run: git clone --recurse-submodules https://github.com/ping2109/ErfanGSIs-TrebleExp.git ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/Velosh/ErfanGSIs-VelanGSIs.git ErfanGSIs
        
        - name: Installing requirements
          run: |
